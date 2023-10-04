@@ -74,7 +74,7 @@ body {
 
 .time span {
     font-size: 22px;
-    color: #333;
+    color: #242121;
 }
 
 .footer {
@@ -83,7 +83,7 @@ body {
 
 .progress-bar {
     height: 8px;
-    background-color: #333;
+    background-color: #aa0c0c;
     cursor: pointer;
     margin-bottom: 5px;
     border-radius: 5px;
