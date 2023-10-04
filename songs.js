@@ -9,7 +9,7 @@ export default [
 },
 {
     src: "./src/Gone With the Winne.mp3",
-    nanme: "Gone With the Winne - century",
+    name: "Gone With the Winne - century",
 },
 {
     src: "./src/Lover Why (Extended Play Version.mp3",
