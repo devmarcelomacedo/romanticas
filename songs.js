@@ -2,7 +2,19 @@ export default [
 {
     src: "./src/That's Why -Michael Learns.mp3",
     name: "That's Why - Michael Learns",
-},  
+}, 
+{
+    src: "./src/Air Supply   Just As I A.mp3",
+    name: "Just As I A - Air Supply ",
+},
+{
+    src: "./src/Gone With the Winne.mp3",
+    nanme: "Gone With the Winne - century",
+},
+{
+    src: "./src/Lover Why (Extended Play Version.mp3",
+    name: "Lover Why - Century",
+},
 {
     src: "./src/Aerosmith   Crazy (Official Music Video.mp3",
     name: "Crazy - AeroSmith",
