@@ -2,8 +2,7 @@ export default [
 {
     src: "./src/That's Why -Michael Learns.mp3",
     name: "That's Why - Michael Learns",
-},
-   
+},  
 {
     src: "./src/Aerosmith   Crazy (Official Music Video.mp3",
     name: "Crazy - AeroSmith",
