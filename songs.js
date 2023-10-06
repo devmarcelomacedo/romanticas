@@ -28,20 +28,20 @@ export default [
     name: "Lonely Is The Nigh - Air Supply",
 },
 {
-    src: "./src/mar01.mp3.mp3",
-    name: "mar01 - ",
+    src: "./src/Não Chore Mai.mp3",
+    name: "Não chore Mais - Gilberto Gil",
 },
 {
-    src: "./src/mar02.mp3.mp3",
-    name: "mar02 - ",
+    src: "./src/Sonho de Ícar.mp3",
+    name: "Sono de Ícaro - Biafra",
 },
 {
-    src: "src/mar03.mp3.mp3",
-    name: "mar03 - ",
+    src: "./src/Noturno (Coração Alado.mp3",
+    name: "Coração Alado - Fagner",
 },
 {
-    src: "./src/mar04.mp3.mp3",
-    name: "mar04 - ",
+    src: "./src/Fábio Jr   Pareço um Menino (ao vivo.mp3",
+    name: "Pareço um menino - Fábiio Junior",
 },
 {
     src: "./src/Metallica Nothing Else Matters (Official Music Video.mp3",
@@ -84,8 +84,8 @@ export default [
     name: "Fã número - Guilherme Arantes",
 },
 {
-    SRC: "./src/Guilherme Arantes   Meu Mundo e Nada Mais (Video.mp3",
-    name: "Meu Mundo e Nada Mais - Guilherme Arantes ",
+    src: "./src/Guilherme Arantes   Meu Mundo e Nada Mais (Video.mp3",
+    name: "Meu Mundo e Nada Mais - Guilherme A",
 },
 {
     src: "./src/A Dois Passos Do Paraís.mp3",
@@ -97,26 +97,26 @@ export default [
 },
 {
     src: "./src/Ah! Como Eu Ame.mp3",
-    name: "Ah! Como Eu Ame - Benito de Paula",
+    name: "Ah!Como Eu Ame - Benito de Paula",
 },
 {
     src: "./src/Amanhã Talve.mp3",
-    name: "Amanhã Talve",
+    name: "Amanhã Talvez - Joana",
 },
 {
     src: "./src/ANJO AZUL   MARQUINHOS MOUR.mp3",
     name: "ANJO AZUL - MARQUINHOS MOURA",
 },
 {
-    src: ".src/Casinha Branc.mp3",
+    src: "./src/Casinha Branc.mp3",
     name: "Casinha Branca",
 },
 {
     src: "./src/Retratos e Cançõe.mp3",
-    name: "Retratos e Cançõe - Sandra de Sá",
+    name: "Retratos e Canções -",
 },
 {
-    src: "./src/Skank   Respost.mp3",
+    src: "./src/Skank Respost.mp3",
     name: " Resposta - Skank",
 },
  
