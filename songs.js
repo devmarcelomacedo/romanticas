@@ -137,7 +137,7 @@ export default [
 },
 {
     src: "./src/Mordida De Amo.mp3",
-    name: "Mordida de amor -"
+    name: "Mordida de amor -",
 },
 {
     src: "./src/Lobão   Me chama (Áudio HQ.mp3",
