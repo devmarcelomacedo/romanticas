@@ -71,5 +71,53 @@ export default [
     src: "./src/Secret Service — Cry Softly (OFFICIAL VIDEO,  1982.mp3",
     name: "Cry Softly - Secret Service ", 
 },
-    
+{
+    src: "./src/♪ Guilherme Arantes   Um dia, um adeus ♫ DVD Ao Viv.mp3",
+    name: "Um dia, um adeus - Guilherme Arantes",
+},
+{
+    src: "./src/14 Bis   Todo azul do ma.mp3",
+    name: "Todo azul do mar - 14 Bis ",
+},
+{
+    src: "./src/1985   Guilherme Arantes   Fã número.mp3",
+    name: "Fã número - Guilherme Arantes",
+},
+{
+    SRC: "./src/Guilherme Arantes   Meu Mundo e Nada Mais (Video.mp3",
+    name: "Meu Mundo e Nada Mais - Guilherme Arantes ",
+},
+{
+    src: "./src/A Dois Passos Do Paraís.mp3",
+    name: "A Dois Passos Do Paraís - Blitz",
+},
+{
+    src: "./src/A fórmula do amo.mp3",
+    name: "A fórmula do amor - Kid Abelha",
+},
+{
+    src: "./src/Ah! Como Eu Ame.mp3",
+    name: "Ah! Como Eu Ame - Benito de Paula",
+},
+{
+    src: "./src/Amanhã Talve.mp3",
+    name: "Amanhã Talve",
+},
+{
+    src: "./src/ANJO AZUL   MARQUINHOS MOUR.mp3",
+    name: "ANJO AZUL - MARQUINHOS MOURA",
+},
+{
+    src: ".src/Casinha Branc.mp3",
+    name: "Casinha Branca",
+},
+{
+    src: "./src/Retratos e Cançõe.mp3",
+    name: "Retratos e Cançõe - Sandra de Sá",
+},
+{
+    src: "./src/Skank   Respost.mp3",
+    name: " Resposta - Skank",
+},
+ 
 ];
