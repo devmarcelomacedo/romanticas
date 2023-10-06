@@ -119,5 +119,33 @@ export default [
     src: "./src/Skank Respost.mp3",
     name: " Resposta - Skank",
 },
+{
+    src: "./src/Skank   Tanto (I Want You) (Multishow Ao Vivo no Mineirão.mp3",
+    name: "Tanto - Skank",
+},
+{
+    src: "./src/Ritchie   A Vida Tem Dessas Coisas (v2009.mp3",
+    name: "A Vida Tem Dessas Coisas - Ritch"
+},
+{
+    src: "./src/Raul Seixas   Maluco Beleza (Clipe 1977.mp3",
+    name: "Maluco Beleza - Raul Seixas",
+},
+{
+    src: "./src/KID ABELHA   uniforme.mp3",
+    name: "Uniforme - Kid Abelha",
+},
+{
+    src: "./src/Mordida De Amo.mp3",
+    name: "Mordida de amor -"
+},
+{
+    src: "./src/Lobão   Me chama (Áudio HQ.mp3",
+    name: "Me chama - Lobão",
+},
+{
+    src: "./src/Kid Abelha   Fixação (Áudio HQ.mp3",
+    name: "Fixação - Kid Abelha",
+},
  
 ];
